@@ -91,7 +91,6 @@ Aerofit offers three treadmill models, each catering to different customer needs
 ## 📧 Contact
 For queries or collaborations, reach out to:
 
-- **GitHub:** [Bhavani Shankar](https://github.com/django-fir)
 - **Email:** [gampabhavanishankar@gmail.com](mailto:gampabhavanishankar@gmail.com)
 
 ---
